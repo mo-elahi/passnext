@@ -1,0 +1,7 @@
+{
+  "name": "passnext",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
